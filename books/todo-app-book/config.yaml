@@ -1,6 +1,6 @@
 title: "Next.js + AWS AppSync + AWS CDKで作るTodoアプリ"
 summary: "Next.js, AWS AppSync, AWS CDKを使ってTodoアプリを作ってみました。"
 topics: ["nextjs", "graphql", "appsync", "awscdk", "apollo"]
-published: false
+published: true
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
